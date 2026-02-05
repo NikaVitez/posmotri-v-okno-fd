@@ -161,7 +161,7 @@ ol {
 }
 
 .button {
-  padding: 6px;
+  padding: 5px;
   border: 1px solid rgba(255, 255, 255, 1);
   font: inherit;
   color: inherit;
@@ -298,11 +298,6 @@ ol {
   object-fit: cover;
   object-position: center;
 }
-
-.preloader-template {
-  position: absolute;
-}
-
 
 /* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
